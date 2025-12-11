@@ -55,7 +55,7 @@ The data has been provided by the Human Resources department and is anonymized. 
 
 *Original Data Source: [Kaggle - HR Analytics Case Study](https://www.kaggle.com/vjchoudhary7/hr-analytics-case-study)*
 
-## 🛠 Methodology
+##  Methodology
 
 The project follows a structured data science pipeline:
 
@@ -81,6 +81,6 @@ This repository contains the work for the following expected deliverables:
 2.  Install the required dependencies (requirements usually include `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`).
 3.  Run the `report.ipynb` notebook.
 
-## 👥 Authors
+##  Authors
 
 * **[Amelie Game , Laura MONTANES MOMBIELA , Richard NABADJA, Guillaume HAEBERLE]** - Data Analysis Specialists for HumanForYou.
